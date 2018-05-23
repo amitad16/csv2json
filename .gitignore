@@ -1,0 +1,5 @@
+.idea/
+csv2json.js
+customer-data.json
+node_modules/
+package-lock.json
